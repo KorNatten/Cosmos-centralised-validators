@@ -22,5 +22,5 @@ I added a separate column (prop_69_vote) in the spreadsheet with their votes. I 
 ```
 I added an option for validators that did not vote on prop69
 ````
-nil
+  VOTE_NIL
 ````
