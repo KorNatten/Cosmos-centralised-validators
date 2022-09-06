@@ -25,7 +25,9 @@ I added an option for validators that did not vote on prop69
   VOTE_NIL
 ````
 
+I added a separate column `centralised_exchange_wallet` and only added a `yes` value with those I was 100% sure
 
+I added an extra column with `remarks` if people want to check those out.
 
 
 
