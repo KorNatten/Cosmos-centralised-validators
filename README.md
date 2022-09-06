@@ -35,7 +35,7 @@ As mentioned before, mintscan only shows the votes from the current 175 active v
 and I had to seperate them with from the ones that were in the [validators.json](https://github.com/gnolang/independence-day/blob/main/consolidate/validators.json) file.
 I manually checked with the `val_address` and put them at the bottom of the list.
 
-I used also used the `val_adress` to manually check the validators that showed up in the [validators.json](https://github.com/gnolang/independence-day/blob/main/consolidate/validators.json) file with a high amount of tokens but are not in the active validators list anymore on Sept 6th 2022.
+I used also used the `val_address` to manually check the validators that showed up in the [validators.json](https://github.com/gnolang/independence-day/blob/main/consolidate/validators.json) file with a high amount of tokens but are not in the active validators list anymore on Sept 6th 2022.
 Those are marked in the `remarks` column with `Inactive` or `JAILED`. 
 
 
