@@ -24,3 +24,10 @@ I added an option for validators that did not vote on prop69
 ````
   VOTE_NIL
 ````
+
+
+
+
+
+
+[link to spreadsheet WIP](https://docs.google.com/spreadsheets/d/1WIsnS1Hg2hDVtElpr27Smfp65JCCZGex7oyYF7QLet8/edit?usp=sharing)
