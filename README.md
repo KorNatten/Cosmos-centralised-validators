@@ -20,7 +20,7 @@ I added a separate column (prop_69_vote) in the spreadsheet with their votes. I 
   VOTE_OPTION_NO_WITH_VETO
   VOTE_OPTION_NO
 ```
-I added an option for validators that did not vote on prop69
+I added an extra value for validators that did not vote on prop69
 ````
   VOTE_NIL
 ````
@@ -28,6 +28,15 @@ I added an option for validators that did not vote on prop69
 I added a separate column `centralised_exchange_wallet` and only added a `yes` value with those I was 100% sure
 
 I added an extra column with `remarks` if people want to check those out.
+
+I added in the moniker column, extra comments when you hoover over them. Mainly when the moniker was different on the date of the [validators.json](https://github.com/gnolang/independence-day/blob/main/consolidate/validators.json) file and Sept 5th 2022
+
+As mentioned before, mintscan only shows the votes from the current 175 active validators. There for the newer validators got a `VOTE_NIL` in the spreadsheet
+and I had to seperate them with from the ones that were in the [validators.json](https://github.com/gnolang/independence-day/blob/main/consolidate/validators.json) file.
+I manually checked with the `val_address` and put them at the bottom of the list.
+
+I used also used the `val_adress` to manually check the validators that showed up in the [validators.json](https://github.com/gnolang/independence-day/blob/main/consolidate/validators.json) file with a high amount of tokens but are not in the active validators list anymore on Sept 6th 2022.
+Those are marked in the `remarks` column with `Inactive` or `JAILED`. 
 
 
 
