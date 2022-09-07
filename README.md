@@ -38,7 +38,8 @@ I manually checked with the `val_address` and put them at the bottom of the list
 I used also used the `val_address` to manually check the validators that showed up in the [validators.json](https://github.com/gnolang/independence-day/blob/main/consolidate/validators.json) file with a high amount of tokens but are not in the active validators list anymore on Sept 6th 2022.
 Those are marked in the `remarks` column with `Inactive` or `JAILED`. 
 
+**Uploaded .csv file with the changes explained above**
+I did not delete any other info from the original validators.json incase someone wants to make a new .json file out of it.
 
 
-
-[link to spreadsheet WIP](https://docs.google.com/spreadsheets/d/1WIsnS1Hg2hDVtElpr27Smfp65JCCZGex7oyYF7QLet8/edit?usp=sharing)
+[link to spreadsheet WIP](https://docs.google.com/spreadsheets/d/1WIsnS1Hg2hDVtElpr27Smfp65JCCZGex7oyYF7QLet8/edit?usp=sharing) This is still online if you want to see it there.
