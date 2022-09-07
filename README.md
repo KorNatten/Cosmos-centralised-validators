@@ -27,6 +27,8 @@ I added an extra value for validators that did not vote on prop69
 
 I added a separate column `centralised_exchange_wallet` and only added a `yes` value with those I was 100% sure
 
+--> Only 1 validator has a `?` bc it's in Korean and I can't make out if it's a CEX or something else.
+
 I added an extra column with `remarks` if people want to check those out.
 
 I added in the moniker column, extra comments when you hoover over them. Mainly when the moniker was different on the date of the [validators.json](https://github.com/gnolang/independence-day/blob/main/consolidate/validators.json) file and Sept 5th 2022
